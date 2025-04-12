@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Excerpt</title>
+    <style>
+        body {
+            font-family: 'Garamond', serif;
+            background-color: #fdf6e3; /* Light cream background */
+            color: #3e2723; /* Dark brown text */
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+            text-align: center;
+        }
+        .book-excerpt {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 30px;
+            border: 1px solid #8d6e63; /* Brown border */
+            border-radius: 10px;
+            background-color: #fff; /* White background for the excerpt */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            font-size: 1.2em;
+        }
+        h1 {
+            color: #6d4c41; /* Brownish color */
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            margin: 15px 0;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 1.1em;
+            color: #6d4c41; /* Brownish color */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="book-excerpt">
+        <h1>Maan Ganda's Birthday Chronicle</h1>
+        <p>"On this day, the world paused to celebrate the birth of a remarkable soul, dear Maan ganda. In the grand tapestry of life, your thread shines with a brilliance that brings warmth and joy to all who are fortunate enough to know you."</p>
+        <p>As the sun rises on this special occasion, we gather in spirit to honor you. Today is not merely a passage of time; it is a celebration of the laughter, love, and light you bring into our lives.</p>
+        <p>May this year unfold like a beautifully written story, filled with thrilling adventures, cherished moments, and the happiness your heart can hold. Take a moment to savor each chapter, for they are the essence of your journey.</p>
+        <p>Here’s to another year of creating unforgettable memories, surrounded by those who adore you. You deserve all the wonders that life has to offer!</p>
+        <p class="footer">With heartfelt wishes,<br>Team 2</p>
+    </div>
+
+</body>
+</html>
